@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Test {
 
 	public static void main(String[] args){
-		int i =0;
 		Scanner input=new Scanner(System.in);
 		Triangle triangle = new Triangle();
 		
