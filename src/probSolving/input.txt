@@ -1,0 +1,20 @@
+%%
+Quote1 Line1
+Quote1 Line2
+Quote1 Line3
+%%
+Quote2 Line1
+Quote2 Line2
+Quote2 Line3
+Quote2 Line4
+Quote2 Line5
+%%
+Quote3 Line1
+%%
+Quote4 Line1
+Quote4 Line2
+Quote4 Line3
+Quote4 Line4
+%%
+Quote5 Line1
+%%
