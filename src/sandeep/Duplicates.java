@@ -3,7 +3,7 @@ package sandeep;
 import java.util.*;
 public class Duplicates 
 {
-    //private static String string;
+    //pivate static String string;
     public int countDuplicates( String string )
 {
     System.out.println(string);

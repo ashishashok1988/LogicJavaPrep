@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Test {
 	/**
-	 * @param args
+	 * @param ssargs
 	 */
 	public static void main(String[] args) {
 		LinkedList<String> linkedList= new LinkedList<String>();
